@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "introduction": "Wprowadzenie",
+    "hobbies": "Hobby",
+    "contact": "Kontakt"
+  },
+  "introduction": {
+    "title": "Programista Full-Stack",
+    "subtitle": "Tworzę Rozwiązania Cyfrowe z Precyzją",
+    "description": "Jestem pasjonatem programowania full-stack z doświadczeniem w nowoczesnych technologiach webowych. Specjalizuję się w budowaniu solidnych, skalowalnych aplikacji używając Angular, TypeScript, .NET i C#. Tworzę płynne doświadczenia użytkownika wsparte solidną architekturą i czystym, łatwym w utrzymaniu kodem.",
+    "skills": "Umiejętności Techniczne",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "devops": "Devops",
+    "downloadCV": "Pobierz CV",
+    "viewProfile": "Zobacz Github"
+  },
+    "experience": {
+    "title": "Experience & Education",
+    "subtitle": "My Professional Journey",
+    "skills": {
+      "title": "Technical Skills",
+      "proficiency": "Skill Proficiency (%)",
+      "progress": "Growth Over Time"
+    },
+    "work": {
+      "title": "Doświadczenie",
+      "globalLogic": {
+        "title": "Software Engineer",
+        "company": "GlobalLogic",
+        "period": "2024 - Present",
+        "description": "Rozwijanie i ulepszanie rozwiązań programistycznych poprzez integrację sprzętu przemysłowego przy użyciu OPC i OPC UA, tworzenie stron zorientowanych na klienta oraz pisanie solidnych testów E2E i testów jednostkowych. Ponadto ulepszanie niestandardowych bibliotek Kendo UI, aktualizacja interfejsów API i pakietów NPM oraz optymalizacja tabel i procedur przechowywanych w bazie danych SQL."
+      },
+      "smartepcMid": {
+        "title": "Software Developer",
+        "company": "Smart EPC",
+        "period": "2023 - 2024",
+        "description": "Opracowanie oprogramowania opartego na mikroserwisach do zarządzania danymi z rzeczywistych obiektów i możliwości sterowania urządzeniami na tych obiektach. Opracowanie aplikacji do agregacji i wizualizacji danych z faktur dla wybranych mediów, głównie energii elektrycznej i gazu."
+      },
+      "smartepcJr": {
+        "title": "Junior Software Developer",
+        "company": "Smart EPC",
+        "period": "2022 - 2023",
+        "description": "Tworzenie skryptów Python do automatyzacji zadań, zarządzania bazami danych (zapytania, widoki), aplikacji internetowych (Django) i ekstrakcji danych za pomocą skrobania stron internetowych lub interfejsów API. Dodatkowo, tworzenie parserów PDF przy użyciu wyrażeń regularnych z walidacją danych względem baz danych."
+      }
+    },
+    "education": {
+      "title": "Edukacja",
+      "master": {
+        "title": "Magister informatyki",
+        "institution": "WSB Merito Chorzów",
+        "period": "2023 - 2024",
+        "description": "Praca magisterska: Aplikacja webowa do tłumaczenia filmów z platformy Youtube w oparciu o AssemblyAI. Rozwijanie wiedzy z zakresu uczenia maszynowego i sztucznej inteligencji."
+      },
+      "bachelor": {
+        "title": "Informatyka Studia inżynierskie",
+        "institution": "Politechnika Śląska",
+        "period": "2019 - 2023",
+        "description": "Projekt inżynierski: Aplikacja webowa do analizy i wizualizacji danych giełdowych w oparciu o mikroserwisy. Rozwijanie umiejętności związanych z informatyką i programowaniem."
+      },
+      "bachelorLogistics": {
+        "title": "Logistyka Studia inżynierskie",
+        "institution": "Politechnika Śląska",
+        "period": "2018 - 2022",
+        "description": "Projekt inżynierski: Aplikacja internetowa do zarządzania zapasami i obliczania wielu wskaźników na magazynie. Rozwinięte umiejętności menedżerskie, wiedza na temat hali produkcyjnej."
+      }
+    }
+  },
+  "hobbies": {
+    "title": "Poza Kodem",
+    "subtitle": "Co Napędza Moją Pasję",
+    "ai": {
+      "title": "Entuzjasta AI",
+      "description": "Eksploruję granice sztucznej inteligencji za pomocą narzędzi takich jak LangChain, LangGraph i budowanie inteligentnych agentów AI. Fascynuje mnie potencjał AI do transformacji sposobu, w jaki tworzymy oprogramowanie."
+    },
+    "cats": {
+      "title": "Miłośnik Kotów",
+      "description": "Kiedy nie programuję, spędzam czas ze swoimi kocimi towarzyszami. Jest coś w ich niezależności i ciekawości, co rezonuje z myśleniem programisty."
+    },
+    "esports": {
+      "title": "Fan E-Sportu",
+      "description": "Gry konkurencyjne nauczyły mnie cennych lekcji o strategii, pracy zespołowej i wydajności pod presją - umiejętności, które bezpośrednio przekładają się na rozwój oprogramowania."
+    }
+  },
+  "contact": {
+    "title": "Skontaktuj Się",
+    "subtitle": "Stwórzmy Razem Coś Niesamowitego",
+    "description": "Zawsze jestem zainteresowany nowymi możliwościami i ekscytującymi projektami. Czy chcesz omówić potencjalną współpracę, czy po prostu się przywitać, śmiało się odezwij!",
+    "email": "Wyślij Email",
+    "linkedin": "Połącz na LinkedIn",
+    "additionalInfo": "Gotowy wcielić swoje pomysły w życie? Jestem w zasięgu jednej wiadomości!"
+  },
+  "footer": {
+    "rightsReserved": "Wszelkie prawa zastrzeżone"
+  },
+  "theme": {
+    "light": "Tryb Jasny",
+    "dark": "Tryb Ciemny"
+  },
+  "language": {
+    "en": "Angielski",
+    "pl": "Polski"
+  }
+}

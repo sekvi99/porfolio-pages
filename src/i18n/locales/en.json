@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "introduction": "Introduction",
+    "experience": "Experience",
+    "hobbies": "Hobbies",
+    "contact": "Contact"
+  },
+  "introduction": {
+    "title": "Full-Stack Developer",
+    "subtitle": "Crafting Digital Solutions with Precision",
+    "description": "I'm a passionate full-stack developer with expertise in modern web technologies. I specialize in building robust, scalable applications using Angular, TypeScript, .NET, and C#. I create seamless user experiences backed by solid architecture and clean, maintainable code.",
+    "skills": "Technical Expertise",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "devops": "Devops",
+    "downloadCV": "Download CV",
+    "viewProfile": "View Github"
+  },
+  "experience": {
+    "title": "Experience & Education",
+    "subtitle": "My Professional Journey",
+    "skills": {
+      "title": "Technical Skills",
+      "proficiency": "Skill Proficiency (%)",
+      "progress": "Growth Over Time"
+    },
+    "work": {
+      "title": "Work Experience",
+      "globalLogic": {
+        "title": "Software Engineer",
+        "company": "GlobalLogic",
+        "period": "2024 - Present",
+        "description": "Developing and enhancing software solutions by integrating industrial hardware using OPC and OPC UA, building client-focused web pages, and writing robust E2E and unit tests. Additionally, improving custom Kendo UI libraries, update APIs and NPM packages, and optimize SQL database tables and stored procedures."
+      },
+      "smartepcMid": {
+        "title": "Software Developer",
+        "company": "Smart EPC",
+        "period": "2023 - 2024",
+        "description": "Development of microservices-based software for managing data from real-world ob- jects and the ability to control devices on those objects. Development of an application to aggregate and visualize data from invoices for selected utilities, mainly Electricity and Gas."
+      },
+      "smartepcJr": {
+        "title": "Junior Software Developer",
+        "company": "Smart EPC",
+        "period": "2022 - 2023",
+        "description": "Develop Python scripts for task automation, database management (queries, views), web applications (Django), and data extraction via web scraping or APIs. Additionally, create PDF parsers using regular expressions with data validation against databases."
+      }
+    },
+    "education": {
+      "title": "Education",
+      "master": {
+        "title": "Master of Computer Science",
+        "institution": "WSB Merito Chorzów",
+        "period": "2023 - 2024",
+        "description": "Master Thesis: Web application for translating videos from Youtube platfrom based on AssemblyAI. Develop knowledge of machine learning and artificial intelligence."
+      },
+      "bachelor": {
+        "title": "Computer Science Engineering Studies",
+        "institution": "Silesian Univeristy of Technology",
+        "period": "2019 - 2023",
+        "description": "Engineering Project: Web application for analysis and visualization of stock market data based on microservices. Developing skills related to computer science and programming."
+      },
+      "bachelorLogistics": {
+        "title": "Logistics Engineering Studies",
+        "institution": "Silesian Univeristy of Technology",
+        "period": "2018 - 2022",
+        "description": "Engineering Project: Web application for inventory management and calculation of mul-tiple indicators on the warehouse. Developed managers skills, production hall knowledge."
+      }
+    }
+  },
+  "hobbies": {
+    "title": "Beyond Code",
+    "subtitle": "What Drives My Passion",
+    "ai": {
+      "title": "AI Enthusiast",
+      "description": "Exploring the frontiers of artificial intelligence with tools like LangChain, LangGraph, and building intelligent AI agents. I'm fascinated by the potential of AI to transform how we develop software."
+    },
+    "cats": {
+      "title": "Cat Lover",
+      "description": "When I'm not coding, you'll find me spending quality time with my feline companions. There's something about their independence and curiosity that resonates with a developer's mindset."
+    },
+    "esports": {
+      "title": "E-Sports Fan",
+      "description": "Competitive gaming has taught me valuable lessons about strategy, teamwork, and performance under pressure - skills that directly translate to software development."
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's Build Something Amazing Together",
+    "description": "I'm always interested in hearing about new opportunities and exciting projects. Whether you want to discuss a potential collaboration or just say hello, feel free to reach out!",
+    "email": "Send Email",
+    "linkedin": "Connect on LinkedIn",
+    "additionalInfo": "Ready to bring your ideas to life? I'm just one message away!"
+  },
+  "footer": {
+    "rightsReserved": "All rights reserved"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "language": {
+    "en": "English",
+    "pl": "Polish"
+  }
+}
