@@ -1,0 +1,110 @@
+<svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient definitions for 80s neon feel -->
+  <defs>
+    <linearGradient id="neonPink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff0080;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff4da6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4df2ff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="neonPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8a2be2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b74dff;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background retro grid (subtle) -->
+  <g opacity="0.1">
+    <path d="M0,20 L200,20 M0,40 L200,40 M0,60 L200,60" stroke="#00d4ff" stroke-width="0.5"/>
+    <path d="M20,0 L20,80 M40,0 L40,80 M60,0 L60,80 M80,0 L80,80 M100,0 L100,80 M120,0 L120,80 M140,0 L140,80 M160,0 L160,80 M180,0 L180,80" stroke="#00d4ff" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Cat body -->
+  <ellipse cx="50" cy="50" rx="16" ry="12" fill="url(#neonPink)" opacity="0.9"/>
+  
+  <!-- Cat head -->
+  <circle cx="50" cy="35" r="12" fill="url(#neonPink)" opacity="0.9"/>
+  
+  <!-- Cat ears -->
+  <polygon points="42,28 46,20 50,26" fill="url(#neonPink)" opacity="0.9"/>
+  <polygon points="50,26 54,20 58,28" fill="url(#neonPink)" opacity="0.9"/>
+  
+  <!-- Inner ears -->
+  <polygon points="44,26 46,22 48,25" fill="url(#neonCyan)" opacity="0.7"/>
+  <polygon points="52,25 54,22 56,26" fill="url(#neonCyan)" opacity="0.7"/>
+  
+  <!-- Cat eyes (pixelated style) -->
+  <rect x="46" y="32" width="2" height="2" fill="#00d4ff"/>
+  <rect x="52" y="32" width="2" height="2" fill="#00d4ff"/>
+  
+  <!-- Cat nose -->
+  <polygon points="49,36 50,38 51,36" fill="#ff0080"/>
+  
+  <!-- Cat mouth -->
+  <path d="M50,38 Q48,40 46,39" stroke="#ff0080" stroke-width="1" fill="none"/>
+  <path d="M50,38 Q52,40 54,39" stroke="#ff0080" stroke-width="1" fill="none"/>
+  
+  <!-- Cat tail -->
+  <path d="M66,50 Q75,45 78,35 Q80,32 77,30" stroke="url(#neonPink)" stroke-width="4" fill="none" opacity="0.9"/>
+  
+  <!-- Cat paws -->
+  <ellipse cx="44" cy="58" rx="3" ry="2" fill="url(#neonPink)" opacity="0.9"/>
+  <ellipse cx="56" cy="58" rx="3" ry="2" fill="url(#neonPink)" opacity="0.9"/>
+  
+  <!-- Computer mouse -->
+  <ellipse cx="75" cy="52" rx="8" ry="5" fill="url(#neonCyan)" opacity="0.8"/>
+  <rect x="73" y="49" width="4" height="2" fill="url(#neonPurple)" opacity="0.8"/>
+  <circle cx="75" cy="50" r="1" fill="#ffffff" opacity="0.9"/>
+  
+  <!-- Mouse cord -->
+  <path d="M83,52 Q90,48 95,52 Q100,56 105,52" stroke="url(#neonCyan)" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Computer screen -->
+  <rect x="110" y="25" width="25" height="18" rx="2" fill="#1a1a2e" stroke="url(#neonCyan)" stroke-width="1"/>
+  <rect x="112" y="27" width="21" height="14" fill="#000000"/>
+  
+  <!-- Screen content (code lines) -->
+  <rect x="114" y="29" width="8" height="1" fill="#00ff00"/>
+  <rect x="114" y="31" width="12" height="1" fill="#00ff00"/>
+  <rect x="114" y="33" width="6" height="1" fill="#00ff00"/>
+  <rect x="114" y="35" width="10" height="1" fill="#00ff00"/>
+  <rect x="114" y="37" width="7" height="1" fill="#00ff00"/>
+  
+  <!-- Monitor stand -->
+  <rect x="120" y="43" width="5" height="8" fill="url(#neonPurple)" opacity="0.8"/>
+  <rect x="115" y="51" width="15" height="2" fill="url(#neonPurple)" opacity="0.8"/>
+  
+  <!-- Keyboard -->
+  <rect x="110" y="55" width="20" height="6" rx="1" fill="url(#neonPurple)" opacity="0.6"/>
+  <g opacity="0.8">
+    <rect x="112" y="57" width="1.5" height="1.5" fill="#ffffff"/>
+    <rect x="114" y="57" width="1.5" height="1.5" fill="#ffffff"/>
+    <rect x="116" y="57" width="1.5" height="1.5" fill="#ffffff"/>
+    <rect x="118" y="57" width="1.5" height="1.5" fill="#ffffff"/>
+    <rect x="120" y="57" width="1.5" height="1.5" fill="#ffffff"/>
+    <rect x="122" y="57" width="1.5" height="1.5" fill="#ffffff"/>
+    <rect x="124" y="57" width="1.5" height="1.5" fill="#ffffff"/>
+    <rect x="126" y="57" width="1.5" height="1.5" fill="#ffffff"/>
+  </g>
+  
+
+  
+  <!-- Glow effects -->
+  <circle cx="50" cy="35" r="15" fill="url(#glow)" opacity="0.3"/>
+  <ellipse cx="75" cy="52" rx="12" ry="8" fill="url(#glow)" opacity="0.2"/>
+  
+  <!-- Sparkle effects -->
+  <g opacity="0.6">
+    <polygon points="35,25 36,27 38,26 36,28 35,30 34,28 32,26 34,27" fill="#ffffff"/>
+    <polygon points="85,35 86,36 87,35 86,37 85,38 84,37 83,35 84,36" fill="#00d4ff"/>
+    <polygon points="140,20 141,21 142,20 141,22 140,23 139,22 138,20 139,21" fill="#ff0080"/>
+  </g>
+  
+
+</svg>
