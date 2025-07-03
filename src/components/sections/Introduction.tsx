@@ -68,7 +68,7 @@ const Introduction = () => {
                 className="group"
                 onClick={() => {
                   const link = document.createElement("a");
-                  link.href = "/Filip_Kozlik_CV.pdf";
+                  link.href = import.meta.env.BASE_URL + "Filip_Kozlik_CV.pdf";
                   link.download = "Filip_Kozlik_CV.pdf";
                   document.body.appendChild(link);
                   link.click();
@@ -101,7 +101,7 @@ const Introduction = () => {
               <div className="w-full h-full rounded-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center animate-float">
                 <div className="w-32 h-32 bg-primary/10 rounded-full flex items-center justify-center">
                   <span className="text-4xl">
-                    <img className="rounded-full" src="/avatar.jpg" />
+                    <img className="rounded-full" src={import.meta.env.BASE_URL + 'avatar.jpg'} />
                   </span>
                 </div>
               </div>
