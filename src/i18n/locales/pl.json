@@ -1,6 +1,7 @@
 {
   "nav": {
     "introduction": "Wprowadzenie",
+    "experience": "Doświadczenie",
     "hobbies": "Hobby",
     "contact": "Kontakt"
   },
@@ -16,12 +17,12 @@
     "viewProfile": "Zobacz Github"
   },
     "experience": {
-    "title": "Experience & Education",
-    "subtitle": "My Professional Journey",
+    "title": "Doświadczenie i Edukacja",
+    "subtitle": "Moja Ścieżka Zawodowa",
     "skills": {
-      "title": "Technical Skills",
-      "proficiency": "Skill Proficiency (%)",
-      "progress": "Growth Over Time"
+      "title": "Umiejętności Techniczne",
+      "proficiency": "Poziom Umiejętności (%)",
+      "progress": "Postęp w Czasie"
     },
     "work": {
       "title": "Doświadczenie",
